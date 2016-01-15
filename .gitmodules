@@ -1,0 +1,3 @@
+[submodule "lib/proton"]
+	path = lib/proton
+	url = https://github.com/craigcook/proton.git
